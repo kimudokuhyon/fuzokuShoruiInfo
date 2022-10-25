@@ -1,0 +1,29 @@
+{  
+  "fuzokuShoruiInfoList": [
+    {
+      "edaNum": "1",
+      "filePath": "c:\test",
+      "fileNm": "file1.csv",
+      "fileSize": "123,456",
+      "torikomiTantosha": "資料　太郎1",
+      "version": "1"
+    },
+    {
+      "edaNum": "2",
+      "filePath": "c:\test",
+      "fileNm": "file2.csv",
+      "fileSize": "222,222",
+      "torikomiTantosha": "資料　太郎2",
+      "version": "2"
+    },
+    {
+      "edaNum": "3",
+      "filePath": "c:\test",
+      "fileNm": "file3.csv",
+      "fileSize": "100,456",
+      "torikomiTantosha": "資料　太郎3",
+      "version": "3"
+    }
+    
+  ]
+}
