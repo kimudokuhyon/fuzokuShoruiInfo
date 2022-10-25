@@ -23,6 +23,14 @@
       "fileSize": "100,456",
       "torikomiTantosha": "資料　太郎3",
       "version": "3"
+    },
+    {
+      "edaNum": "4",
+      "filePath": "c:\test",
+      "fileNm": "file4.csv",
+      "fileSize": "400,000",
+      "torikomiTantosha": "資料　太郎4",
+      "version": "4"
     }
     
   ]
